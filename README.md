@@ -1,27 +1,13 @@
-<h1 style="text-align:center"> MEAN App </h1>  
+# MEAN App
 
 > Aplicación creada con la integración de tecnologías que forman parte del Stack MEAN (MongoDB, ExpressJS, AngularJS y NodeJS).
 
 ### ¿Qué es Mean Stack?  
-<div style="width:100%; display: flex; justify-content: space-around; align-items: center">
-<div style="width:20%;">
-    <img style="width:100%; margin:0 auto" src="./readmeResources/MongoDB.png">  
-</div>
-<div style="width:20%;">
-    <img style="width:100%; margin:0 auto" src="./readmeResources/Expressjs.png">
-</div>
-<div style="width:20%;">
-    <img style="width:100%; margin:0 auto" src="./readmeResources/AngularJS.png">
-</div>
-<div style="width:20%;">
-    <img style="width:100%; margin:0 auto" src="./readmeResources/NodeJS.png">
-</div>
-</div>  
-<br>  
- 
+![MEANStack](./readmeResources/MEANStack.png)  
+
 *MEAN es una estructura y un conjunto de tecnologías que nos permite desarrollar aplicaciones web dinámicas completas.Trabajándolas en algún stack en particular, en el caso de MEAN (MongoDB, ExpressJS, AngularJS y NodeJS) con tecnologías basadas en lenguaje Javascript.*
 
-### Tecnologías usadas:
+### Tecnologías utilizadas:
 
 - [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML): Lenguaje de marcado de hipertexto utilizado para crear sitios web de forma semántica.
 - [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS): Lenguaje de estilos que ayuda a mejorar la apariencia de documentos HTML o XML.
